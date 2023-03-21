@@ -1,4 +1,4 @@
-# Django Bug Tracker Website
+# Django Bug Tracker Website.
 
 A project that allows users and developers to track bugs in various projects. 
 
